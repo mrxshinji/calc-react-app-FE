@@ -20,12 +20,12 @@ This is a solution to the [Space tourism website challenge on Frontend Mentor](h
 
 ### Screenshot
 - Desktop view
-![](./src/assets/images/for_readme/desktop.png)
-![](./src/assets/images/for_readme/desktop2.png)
+![](./src/assets/images/desktop.png)
+![](./src/assets/images/desktop2.png)
 
 - Mobile View
 
-![](./src/assets/images/for_readme/mobile.png)
+![](./src/assets/images/mobile.png)
 
 
 ### Links
