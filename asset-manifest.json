@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/calc-react-app-FE/static/js/main.db05e79e.js",
+    "static/js/787.a174f9e5.chunk.js": "/calc-react-app-FE/static/js/787.a174f9e5.chunk.js",
+    "index.html": "/calc-react-app-FE/index.html",
+    "main.db05e79e.js.map": "/calc-react-app-FE/static/js/main.db05e79e.js.map",
+    "787.a174f9e5.chunk.js.map": "/calc-react-app-FE/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.db05e79e.js"
+  ]
+}
